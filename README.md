@@ -336,49 +336,6 @@ Run Dashboard
 streamlit run dashboard/app.py
 ```
 
----
-
-# 📷 Screenshots
-
-- Dashboard
-- Prediction Page
-- Analytics
-- SHAP Visualization
-- API Documentation
-
-(Add screenshots after implementation.)
-
----
-
-# 🎯 Future Improvements
-
-- Deep Learning Models
-- Transformer-based Prediction
-- Real-time TMDb API Integration
-- Sentiment Analysis from Reviews
-- Marketing Budget Prediction
-- OTT Revenue Prediction
-- Multi-language Support
-- Mobile Application
-
----
-
-# 📚 Learning Outcomes
-
-This project demonstrates expertise in:
-
-- Data Collection
-- Data Cleaning
-- Exploratory Data Analysis
-- Feature Engineering
-- Machine Learning
-- Explainable AI
-- API Development
-- Dashboard Development
-- Database Integration
-- Docker
-- Deployment
-- MLOps Fundamentals
 
 ---
 
@@ -392,24 +349,6 @@ Passionate about Data Science, Artificial Intelligence, Machine Learning, and Fu
 
 GitHub: https:(https://github.com/aryan01109)
 LinkedIn: https:(https://www.linkedin.com/in/bhoya-aryan-1410a3334)
-
----
-
-# ⭐ Support
-
-If you found this project helpful:
-
-⭐ Star this repository
-
-🍴 Fork the project
-
-💡 Contribute with improvements
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
 
 ---
 
