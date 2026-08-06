@@ -390,9 +390,8 @@ Computer Engineering Student
 
 Passionate about Data Science, Artificial Intelligence, Machine Learning, and Full-Stack Development.
 
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
+GitHub: https:(https://github.com/aryan01109)
+LinkedIn: https:(https://www.linkedin.com/in/bhoya-aryan-1410a3334)
 
 ---
 
