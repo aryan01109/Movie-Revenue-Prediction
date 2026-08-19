@@ -566,30 +566,6 @@ Predicted Revenue ≠ Guaranteed Revenue
 
 ------------------------------------------------------------------------
 
-## 🔮 Future Improvements
-
-Possible future versions can include:
-
--   🎭 Actor and director embeddings
--   🏢 Production-company embeddings
--   📝 Better NLP models such as larger Transformer models
--   ⭐ Sentiment analysis of movie descriptions
--   📱 Social media sentiment
--   📢 Marketing budget
--   🌎 Country-wise revenue prediction
--   📅 Competition analysis for release dates
--   🎞️ Franchise/sequel detection
--   📊 Revenue prediction intervals
--   🔍 SHAP explainability
--   📈 Interactive revenue charts
--   🔐 User authentication
--   🗄️ Database for prediction history
--   ☁️ Cloud deployment
--   🔄 Model retraining pipeline
--   📡 Real-time movie data APIs
-
-------------------------------------------------------------------------
-
 ## 🔐 Model Files
 
 The trained models are stored separately:
